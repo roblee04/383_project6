@@ -1,0 +1,4 @@
+Commands to run C code :
+
+gcc main.c -o main
+./main
